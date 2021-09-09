@@ -1,5 +1,7 @@
 package main
 
+########here-bitbark-os
+
 module_address[i] = address {
 	changeset := input.resource_changes[i]
 	address := changeset.address
